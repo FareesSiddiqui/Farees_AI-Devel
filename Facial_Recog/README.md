@@ -1,6 +1,6 @@
 # Farees_Development
 
-**Project Status: Work in progress (Usable needs more images)**
+**Project Status: Finished**
 
 This is a facial recognition, it uses the images in the images folder to train a neural network and then tries to recognize the faces it sees in the camera window. This program was made using Pillow and opencv to open the camera and record the video feed that will be used for the facial recognition. The program is complete but it still needs a far larger data set in different types of lighting, distances, angles, and camera qualities to be more reliable and consistent.
 
